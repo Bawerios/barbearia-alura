@@ -2,6 +2,7 @@
     <img src="img/logo.png" alt="Logo da Barbearia Alura">
 </h1>
 
+
 <h1>
     <img src="img/apresentacao.gif">
 </h1>
